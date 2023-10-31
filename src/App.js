@@ -3,8 +3,8 @@ import { BrowserRouter as Main, Route, Routes } from 'react-router-dom';
 
 import React, { Component } from 'react'
 import Navbar from './components/Navbar';
-import News from './components/News';
 import About from './components/About';
+import News from './components/News';
 
 const App =()=>
 {
